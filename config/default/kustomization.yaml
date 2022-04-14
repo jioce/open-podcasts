@@ -1,5 +1,5 @@
 # Adds namespace to all resources.
-namespace: osf2f-system
+namespace: osf2f-system1
 
 # Value of this field is prepended to the
 # names of all resources, e.g. a deployment named
