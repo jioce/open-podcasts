@@ -1,5 +1,5 @@
 # Adds namespace to all resources.
-namepace: osf2f-system
+namespace: osf2f-system
 # Value of this field is prepended to the
 # names of all resources, e.g. a deployment named
 # "wordpress" becomes "alices-wordpress".
